@@ -1,5 +1,5 @@
 <h1 align='center'>
-  Hi, I'm Jade Carvalho and I :heart: creating & coding
+  Hi, I'm Jade Carvalho and I :heart: designing & coding
 </h1>
 <br />
 
@@ -13,17 +13,6 @@
   </a>&nbsp;&nbsp;
   
 </p>
-
-<!--
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 
 
 ## Latest projects
@@ -39,7 +28,7 @@
 
 ## Collaboration
 
-- 👯 I took part in the Pride Hackathon, April 2021, collaborating with a team of developers with varied skills, over 5 days, to produce a website for the LGBTQ community: [Light Up](https://github.com/Jade-ux/light-up).
+- 👯 In April 2021 I took part in the Pride Hackathon, collaborating with a team of developers with a range of skills, over 5 days, to produce a website for the LGBTQ community: [Light Up](https://github.com/Jade-ux/light-up).
 - 💬 Get in touch if you'd like to collaborate! You can reach me on [LinkedIn](https://www.linkedin.com/in/jade-shannon-carvalho/)<br /><br />
 
 
@@ -63,13 +52,25 @@
 
 ## Other interests
 
-- :mount_fuji: Take me to the mountains! I love hiking, being in the mountains, forests or wilderness of any kind
+- :mount_fuji: Take me to the mountains! I love hiking and being in the mountains, forests or wilderness of any kind
 - :books: Currently reading: *The Restaurant at the End of the Universe* by Douglas Adams and *Our Mathematical Universe* by Max Tegmark
-- :book: I'm always learning, especially enjoy learning about tech, science, psychology, culture and nutrition
-- :wrench: Problem solving: Love a good meaty challenge, love taking things apart and figuring out how to fix errors
-
+- :book: I'm always learning, I especially enjoy learning about tech, science, psychology, culture and nutrition
+- :wrench: Problem solving: Love a good challenge, love taking things apart and figuring out how to fix errors
+- ⚡ My background is in digital marketing and design 
 
 <!--Credits: 
 1. UPDATE: Next Level GitHub Profile README (NEW) | GitHub Actions | Vercel | Spotify: https://www.youtube.com/watch?v=n6d4KHSKqGk 
 2. Emojis Cheat Sheet: https://www.webfx.com/tools/emoji-cheat-sheet/
+-->
+
+
+<!--
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
 -->
