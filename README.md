@@ -1,4 +1,7 @@
-# Hi, I'm Jade Carvalho and I :heart: creating & coding
+<h1 align='center'>
+  Hi, I'm Jade Carvalho and I :heart: creating & coding
+</h1>
+<br />
 
 <p align='center'>
   
