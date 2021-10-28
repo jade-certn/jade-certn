@@ -1,4 +1,15 @@
-# Hi, I'm Jade Carvalho and I :heart: design & code
+# Hi, I'm Jade Carvalho and I :heart: creating & coding
+
+<p align='center'>
+  
+  <a href="https://www.linkedin.com/in/jade-shannon-carvalho/">
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>&nbsp;&nbsp;
+  <a https://www.instagram.com/jade_elpis/">
+    <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" />        
+  </a>&nbsp;&nbsp;
+  
+</p>
 
 <!--
 - 🔭 I’m currently working on ...
