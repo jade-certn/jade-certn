@@ -8,7 +8,7 @@
   <a href="https://www.linkedin.com/in/jade-shannon-carvalho/">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>&nbsp;&nbsp;
-  <a https://www.instagram.com/jade_elpis/">
+  <a href="https://www.instagram.com/jade_elpis/">
     <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" />        
   </a>&nbsp;&nbsp;
   
