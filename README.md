@@ -52,7 +52,7 @@
 ## Other interests
 
 - :mount_fuji: Take me to the mountains! I love hiking and being in the mountains, forests or wilderness of any kind
-- :books: Currently reading: *The Restaurant at the End of the Universe* by Douglas Adams and *Our Mathematical Universe* by Max Tegmark
+- :books: Currently reading: *Range* by David Epstein
 - :book: I'm always learning, I especially enjoy learning about tech, science, psychology, culture and nutrition
 - :wrench: Problem solving: Love a good challenge, love taking things apart and figuring out how to fix errors
 - ⚡ My background is in digital marketing and design 
