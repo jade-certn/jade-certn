@@ -1,5 +1,5 @@
 <h1 align='center'>
-  Hi, I'm Jade Carvalho and I :heart: designing & coding
+  Hi, I'm Jade Carvalho and I :heart: working on development & design
 </h1>
 <br />
 
