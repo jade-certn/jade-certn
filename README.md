@@ -1,5 +1,5 @@
 <h1 align='center'>
-  Hi, I'm Jade Carvalho and I :heart: working on development & design
+  Hi, I'm Jade, a software developer with a background in marketing and design
 </h1>
 <br />
 
@@ -17,9 +17,9 @@
 
 ## Latest projects
 
-|**Built with**|**Full tech stack**|**Project**|**Live site**|
-|:-----|:-----|:-----|:-----|
-|<img align="left" alt="HTML5" width="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" /> <img align="left" alt="CSS3" width="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />|HTML5, CSS3|<b> [Learn English in South Africa](https://github.com/Jade-ux/Learn_English_In_South_Africa)</b>|[View live](https://jade-ux.github.io/Learn_English_In_South_Africa/index.html)| 
+|**Built with**|**Full tech stack**|**Project**|
+|:-----|:-----|:-----|
+|<img align="left" alt="HTML5" width="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" /> <img align="left" alt="CSS3" width="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />|HTML5, CSS3|<b> [Learn English in South Africa](https://github.com/Jade-ux/Learn_English_In_South_Africa)</b>| 
 |<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" /> <img align="left" alt="jQuery" width="46px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/jquery/jquery.png" />|HTML5, CSS3, JavaScript,<br /> jQuery & Google Maps API|<b>[My Trip Planner](https://github.com/Jade-ux/MS02-My-Trip-Planner)</b> || 
 |<img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" /> <img align="left" alt="MongoDB" width="46px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />|HTML5, CSS3, JavaScript, jQuery, Python, <br />Flask, Jinja, MongoDB & Amazon S3|<b>[Our Shared Traditions](https://github.com/Jade-ux/OurTraditions)</b>||
 |<img align="left" alt="Django" width="46px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/django/django.png" /> <img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />| HTML5, CSS3, JavaScript, jQuery, <br />Python, Django, PostgreSQL, Amazon S3 & Stripe |<b>[Wunderlust Fine Art Prints](https://github.com/Jade-ux/wunderlust_gallery)</b>||
@@ -28,7 +28,8 @@
 
 ## Collaboration
 
-- 👯 In April 2021 I took part in the Pride Hackathon, collaborating with a team of developers with a range of skills, over 5 days, to produce a website for the LGBTQ community: [Light Up](https://github.com/Jade-ux/light-up).
+- 👯 In 2022 I took part in the Women in Tech Hackathon, collaborating with a team of developers with a range of skills, over 5 days, to produce a website for women working in the tech industry: [Women Tech Connect](https://github.com/Jade-ux/WomenTechConnect).
+- 👯 In 2021 I took part in the Pride Hackathon, working with a team of developers from Code Institute to produce a website for the LGBTQ community: [Light Up](https://github.com/Jade-ux/light-up).
 - 💬 Get in touch if you'd like to collaborate! You can reach me on [LinkedIn](https://www.linkedin.com/in/jade-shannon-carvalho/)<br /><br />
 
 
@@ -45,16 +46,15 @@
 <img align="left" alt="Git" width="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 <img align="left" alt="GitHub" width="36px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 <img align="left" alt="Visual Studio" width="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-<img align="left" alt="Visual Studio" width="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/atom/atom.png" />
+<img align="left" alt="Atom" width="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/atom/atom.png" />
 
 <br /><br /><br />
 
 ## Other interests
 
 - :mount_fuji: Take me to the mountains! I love hiking and being in the mountains, forests or wilderness of any kind
-- :books: Currently reading: *Range* by David Epstein
 - :book: I'm always learning, I especially enjoy learning about tech, science, psychology, culture and nutrition
-- :wrench: Problem solving: Love a good challenge, love taking things apart and figuring out how to fix errors
+- :wrench: Problem-solving: Love a good challenge, love taking things apart and figuring out how to fix errors
 - ⚡ My background is in digital marketing and design 
 
 <!--Credits: 
