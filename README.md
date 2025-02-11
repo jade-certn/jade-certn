@@ -6,14 +6,17 @@
 <p align='center'>
   
   <a href="https://www.linkedin.com/in/jade-shannon-carvalho/">
-    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>&nbsp;&nbsp;
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
   <a href="https://www.instagram.com/jade_elpis/">
-    <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" />        
-  </a>&nbsp;&nbsp;
-  
+    <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white"/>        
+  </a>
 </p>
 
+<h1 align='center'>
+  <a href="https://github.com/jade-certn?tab=overview&from=2024-12-01&to=2024-12-31">Take a look at my 9-5 Github account here</a> ▶
+</h1>
+<br />
 
 ## Latest projects
 
@@ -63,22 +66,10 @@
 - :mount_fuji: I'm happiest in nature, I love hiking and being in the mountains, forests or wilderness of any kind
 - :book: I'm always learning, I especially enjoy learning about tech, science, psychology, culture and nutrition
 - :wrench: Problem-solving: Love a good challenge, love taking things apart and figuring out how to fix errors
-- ⚡ My background is in digital marketing and design 
+- ⚡ My background is in digital marketing and design
 
 <!--Credits: 
 1. UPDATE: Next Level GitHub Profile README (NEW) | GitHub Actions | Vercel | Spotify: https://www.youtube.com/watch?v=n6d4KHSKqGk 
 2. Emojis Cheat Sheet: https://www.webfx.com/tools/emoji-cheat-sheet/
 -->
 
-
-<!--
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-
-- ⚡ Fun fact: ...
--->
